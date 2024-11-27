@@ -1,0 +1,25 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Страница — 1" id="jlT6gbXZlUU3SblTe5pQ">
+    <mxGraphModel dx="1278" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YEnc49fM27VqQf8cOZdW-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="420" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="YEnc49fM27VqQf8cOZdW-2" value="Ассортимент&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="380" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="YEnc49fM27VqQf8cOZdW-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="60" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YEnc49fM27VqQf8cOZdW-11" value="Промокод" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="70" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YEnc49fM27VqQf8cOZdW-12" value="Удалить" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="70" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

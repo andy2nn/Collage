@@ -1,0 +1,34 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Страница — 1" id="Ncb1uQLyAhyKogT394YE">
+    <mxGraphModel dx="534" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oJO4I743OxZRfH0hj2U2-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="440" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="oJO4I743OxZRfH0hj2U2-2" value="Весь ассортимент магазина" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="50" width="280" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="oJO4I743OxZRfH0hj2U2-3" value="Выбранные товары" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="80" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oJO4I743OxZRfH0hj2U2-4" value="Общая стоимость" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="180" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oJO4I743OxZRfH0hj2U2-5" value="Ввод промока" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oJO4I743OxZRfH0hj2U2-6" value="Применить промокод" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oJO4I743OxZRfH0hj2U2-7" value="Произвести покупку" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="240" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oJO4I743OxZRfH0hj2U2-8" value="Закрыть смену" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="50" width="110" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
